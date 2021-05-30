@@ -1,0 +1,2 @@
+﻿  stdafx.cpp
+c:\users\administrator\desktop\ratropolis\ratropolis\stdafx.h(36): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
